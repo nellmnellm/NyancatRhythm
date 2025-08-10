@@ -15,36 +15,38 @@ Nyancat is starve
 
 ## 사용된 냥캣 캐릭터 저작자
 
-PRguitarman
-https://x.com/prguitarman
+- PRguitarman
+- https://x.com/prguitarman
 
 ## 사용된 곡 및 영상
 
-1. 곡명: Nyanyanyanyanyanyanya!
-   아티스트: daniwell
-   출처: https://www.youtube.com/watch?v=9Uh1NI-SVe4
+1.
+   - 곡명: Nyanyanyanyanyanyanya!
+   - 아티스트: daniwell
+   - 출처: https://www.youtube.com/watch?v=9Uh1NI-SVe4
    
-2. 곡명: FREEDOM DiVE
-   아티스트: xi 
-   출처: https://www.youtube.com/watch?v=jkXYLlu4Dq8
+2.
+   - 곡명: FREEDOM DiVE
+   - 아티스트: xi 
+   - 출처: https://www.youtube.com/watch?v=jkXYLlu4Dq8
 
-3. 곡명: OIIA OIIA (Spinning Cat)  
-   아티스트: W&W
-   출처: https://www.youtube.com/watch?v=IxX_QHay02M
+3.
+   - 곡명: OIIA OIIA (Spinning Cat)  
+   - 아티스트: W&W
+   - 출처: https://www.youtube.com/watch?v=IxX_QHay02M
 
-모든 음악과 영상의 저작권은 해당 원저작자에게 있으며,  
-저작권자의 요청이 있을 경우 즉시 삭제하겠습니다.
+모든 음악과 영상의 저작권은 해당 원저작자에게 있으며, 저작권자의 요청이 있을 경우 즉시 삭제하겠습니다.
 
 ## 기타 사용한 에셋
 
-일부 이미지(.png)와 오디오(.wav, .mp3) 파일은 무료 에셋, 무료 png 웹사이트에서 제공된 자료를 사용했습니다.
-예시: Free Pop Sound Effects Pack / Wizard - 2D Character 무료 에셋.
+- 일부 이미지(.png)와 오디오(.wav, .mp3) 파일은 무료 에셋, 무료 png 웹사이트에서 제공된 자료를 사용했습니다.
+- 예시: Free Pop Sound Effects Pack / Wizard - 2D Character 무료 에셋.
 
-일부 이미지는(.png) ChatGPT를 이용해서 제작되었습니다.
-예시 : 일부 이미지 (star1, star2, star3) 
+- 일부 이미지는(.png) ChatGPT를 이용해서 제작되었습니다.
+- 예시 : 일부 이미지 (star1, star2, star3) 
 
-일부 배경음악(.mp4) 는 Pixabay의 Free For Use 곡을 사용했습니다. 
-예시 : penguinmusic (https://pixabay.com/music/future-bass-future-design-344320/)
+- 일부 배경음악(.mp4) 는 Pixabay의 Free For Use 곡을 사용했습니다. 
+- 예시 : penguinmusic (https://pixabay.com/music/future-bass-future-design-344320/)
 
 
 ## 게임 씬
